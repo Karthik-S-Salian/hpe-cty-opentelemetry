@@ -1,0 +1,110 @@
+input {
+  kafka {
+    bootstrap_servers => "127.0.0.1:9092"
+    topics => ["otel-logs"]
+    codec => "json"
+    group_id => "logstash-group"
+  }
+}
+
+filter {
+  # If MESSAGE field exists and is JSON, parse it and replace the event's fields
+  if [MESSAGE] {
+    json {
+      source => "MESSAGE"
+      target => "body"
+      remove_field => ["MESSAGE"]
+    }
+  }
+
+  # If `body` is a map, unpack it
+  ruby {
+    code => '
+      if event.get("body").is_a?(Hash)
+        body = event.get("body")
+
+        # Promote each key-value from `body` to top-level fields
+        body.each do |k, v|
+          event.set(k, v)
+        end
+
+        # Set timestamp if present
+        if body["@timestamp"]
+          ts = (body["@timestamp"].to_f * 1_000_000_000).to_i
+          event.set("loki_timestamp", ts.to_s)
+          event.set("@timestamp", Time.at(ts / 1_000_000_000.0).utc)
+        end
+
+        # Add Alloy-like labels
+        event.set("log_type", body["log_type"]) if body["log_type"]
+        event.set("job", "alloy")
+      end
+    '
+  }
+
+  # Fallback timestamp handling
+  if ![loki_timestamp] {
+    ruby {
+      code => '
+        ts = (event.get("@timestamp").to_f * 1_000_000_000).to_i
+        event.set("loki_timestamp", ts.to_s)
+      '
+    }
+  }
+
+  # Build Loki payload
+  ruby {
+    code => '
+      require "json"
+      data = event.to_hash
+      payload = {
+        "streams" => [
+          {
+            "stream" => {
+              "job" => data["job"] || "logstash",
+              "log_type" => data["log_type"] || "unknown"
+            },
+            "values" => [
+              [ data["loki_timestamp"], JSON.generate(data) ]
+            ]
+          }
+        ]
+      }
+      event.set("[@metadata][loki_payload]", JSON.generate(payload))
+
+      # VictoriaMetrics payload format
+      victoria_data = {
+        "metric" => data["log_type"] || "unknown_log",
+        "values" => [[data["loki_timestamp"].to_i / 1_000_000_000, 1]],
+        "labels" => {
+          "job" => data["job"] || "logstash",
+          "log_type" => data["log_type"] || "unknown"
+        }
+      }
+      event.set("[@metadata][victoria_payload]", JSON.generate([victoria_data]))
+    '
+  }
+}
+
+output {
+  # Send to Loki
+  http {
+    url => "http://localhost:3100/loki/api/v1/push"
+    http_method => "post"
+    format => "message"
+    content_type => "application/json"
+    message => "%{[@metadata][loki_payload]}"
+  }
+
+  # Send to VictoriaMetrics
+  http {
+    url => "http://localhost:8428/api/v1/import"
+    http_method => "post"
+    format => "message"
+    content_type => "application/json"
+    message => "%{[@metadata][victoria_payload]}"
+  }
+
+  # Debug output
+  # stdout { codec => rubydebug }
+}

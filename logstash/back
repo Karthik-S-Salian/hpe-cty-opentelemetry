@@ -1,0 +1,137 @@
+input {
+  kafka {
+    bootstrap_servers => "127.0.0.1:9092"
+    topics => ["otel-logs"]
+    codec => "json"
+    group_id => "logstash-group"
+  }
+}
+
+filter {
+  ########################################
+  # Step 1: Unwrap MESSAGE or event.original
+  ########################################
+  if [MESSAGE] {
+    json {
+      source => "MESSAGE"
+      target => "event_json"
+      remove_field => ["MESSAGE"]
+    }
+  } else if [event][original] {
+    json {
+      source => "[event][original]"
+      target => "event_json"
+      remove_field => ["event"]
+    }
+  }
+
+  ########################################
+  # Step 2: Promote fields from event_json
+  ########################################
+  if [event_json] {
+    mutate {
+      rename => {
+        "[event_json][timestamp]" => "log_time"
+        "[event_json][message]" => "message"
+        "[event_json][service]" => "service"
+        "[event_json][instance_id]" => "instance_id"
+        "[event_json][cpu_usage]" => "cpu_usage"
+        "[event_json][memory_usage]" => "memory_usage"
+        "[event_json][http_method]" => "http_method"
+        "[event_json][http_route]" => "http_route"
+        "[event_json][http_status_code]" => "http_status_code"
+        "[event_json][log_type]" => "log_type"
+        "[event_json][env]" => "env"
+        "[event_json][host_ip]" => "host_ip"
+        "[event_json][team]" => "team"
+        "[event_json][state]" => "state"
+      }
+      remove_field => ["event_json"]
+    }
+  }
+
+
+  date {
+    match => ["log_time",
+      "yyyy-MM-dd'T'HH:mm:ss.SSSSSSZ",
+      "yyyy-MM-dd'T'HH:mm:ss.SSSZ",
+      "ISO8601"
+    ]
+    target => "@timestamp"
+    tag_on_failure => ["_timestampparsefailure"]
+  }
+
+
+  ########################################
+  # Step 3: GROK fallback (for plain string logs)
+  ########################################
+  if ![http_method] and [message] {
+    grok {
+      match => {
+        "message" => "\[%{TIMESTAMP_ISO8601:log_time}\] %{WORD:http_method} %{URIPATH:http_route} -> %{NUMBER:http_status_code}"
+      }
+      tag_on_failure => ["_grokparsefailure"]
+    }
+  }
+
+  ########################################
+  # Step 4: Parse log_time to @timestamp
+  ########################################
+  date {
+    match => ["log_time", "ISO8601"]
+    target => "@timestamp"
+    tag_on_failure => ["_timestampparsefailure"]
+  }
+
+  ########################################
+  # Step 5: Default fallback env
+  ########################################
+  mutate {
+    add_field => { "env" => "dev" }
+  }
+
+  ########################################
+  # Step 6: Build Loki payload
+  ########################################
+  ruby {
+    code => '
+      require "json"
+      log_data = event.to_hash
+      timestamp = event.get("@timestamp")
+      loki_time = (timestamp.to_f * 1_000_000_000).to_i.to_s
+
+      labels = {}
+      %w[service instance_id log_type http_method http_route http_status_code state env team host_ip].each do |k|
+        v = log_data[k]
+        labels[k] = v.to_s if v
+      end
+
+      loki_stream = {
+        "streams": [
+          {
+            "stream": labels,
+            "values": [
+              [loki_time, JSON.generate(log_data)]
+            ]
+          }
+        ]
+      }
+
+      event.set("[@metadata][loki_payload]", JSON.generate(loki_stream))
+    '
+  }
+}
+
+output {
+  http {
+    url => "http://localhost:3100/loki/api/v1/push"
+    http_method => "post"
+    format => "message"
+    content_type => "application/json"
+    message => "%{[@metadata][loki_payload]}"
+  }
+
+  stdout {
+    codec => rubydebug
+  }
+}

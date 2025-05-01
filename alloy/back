@@ -1,0 +1,80 @@
+// ------------------ Receive JSON from Kafka ------------------
+
+otelcol.receiver.kafka "from_kafka_logs" {
+  protocol_version = "4.0.0"
+  brokers     = ["localhost:9092"]
+  topic       = "otel-logs"
+  encoding    = "otlp_json"
+
+  output {
+    logs = [otelcol.processor.batch.batch.input]
+  }
+}
+
+otelcol.receiver.kafka "from_kafka_metrics" {
+  protocol_version = "4.0.0"
+  brokers     = ["localhost:9092"]
+  topic       = "otel-metrics"
+  encoding    = "otlp_json"
+
+  output {
+    metrics = [otelcol.processor.batch.batch.input]
+  }
+}
+
+// ------------------ Process (batching) ------------------
+
+otelcol.processor.batch "batch" {
+  output {
+    logs    = [otelcol.processor.transform.fix_format.input]
+    metrics = [otelcol.exporter.prometheus.to_prometheus.input]
+  }
+}
+
+// ------------------ Transform logs ------------------
+
+otelcol.exporter.debug "default" {}
+
+otelcol.processor.transform "fix_format" {
+  error_mode = "ignore"
+
+  log_statements {
+    context = "log"
+    statements = [
+      `set(attributes["log_type"], attributes["log_type"])`,
+      `set(severity_text, attributes["level"])`,
+      `set(body, attributes["log"])`,
+    ]
+  }
+
+  output {
+    logs = [otelcol.exporter.loki.to_loki.input,
+            otelcol.exporter.debug.default.input,
+    ]
+  }
+}
+
+
+// ------------------ Export logs to Loki ------------------
+
+otelcol.exporter.loki "to_loki" {
+  forward_to = [loki.write.local.receiver]
+}
+
+loki.write "local" {
+  endpoint {
+    url = "loki:3100"
+  }
+}
+
+// ------------------ Export metrics to Prometheus ------------------
+
+otelcol.exporter.prometheus "to_prometheus" {
+  forward_to = [prometheus.remote_write.mimir.receiver]
+}
+
+prometheus.remote_write "mimir" {
+  endpoint {
+    url = "http://localhost:8428/api/v1/write"
+  }
+}
