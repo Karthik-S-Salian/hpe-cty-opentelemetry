@@ -63,7 +63,8 @@ def generate_switchlog():
     return {
         "Severity": severity,
         "Body": body,
-        "Timestamp": datetime.utcnow().isoformat() + "+00:00",
+        # "Timestamp": datetime.utcnow().isoformat() + "+00:00",
+        "Timestamp": datetime.now().strftime("%b %d %H:%M:%S"),
         "Attributes": {
             "priority": str(random.randint(100, 200)),
             "type": "log_switchlog",
