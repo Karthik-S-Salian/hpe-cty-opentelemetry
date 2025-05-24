@@ -1,0 +1,1502 @@
+[
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [394813"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [27693"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: Calling rd_func for Reading of size 4096"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: Calling rd_func for Reading of size 4096"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [73915"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [417372"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: Calling rd_func for Reading of size 4096"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: Calling rd_func for Reading of size 4096"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: Calling rd_func for Reading of size 4096"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: Calling rd_func for Reading of size 4096"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [32190638418647"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [32186136869310"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: Calling rd_func for Reading of size 4096"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [18020"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: Calling rd_func for Reading of size 4096"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [745"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: Calling rd_func for Reading of size 4096"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: Calling rd_func for Reading of size 4096"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [613400"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: Calling rd_func for Reading of size 4096"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: Calling rd_func for Reading of size 4096"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [350132"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: Calling rd_func for Reading of size 4096"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: Calling rd_func for Reading of size 4096"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [17"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: Calling rd_func for health_condition of size 4096"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [27695"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [483783"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: Calling rd_func for Reading of size 4096"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [73897"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [485726"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: Calling rd_func for Reading of size 4096"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [18191749"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [6898821"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [6683316"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [32186144091942"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [32190016784061"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: Calling rd_func for Reading of size 4096"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [810"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [43"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [142"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [61880"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [855418"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [22457"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [4794836"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [1380"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [11160"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [531505"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [52385"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [120012"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [60"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: Calling rd_func for Reading of size 4096"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [cond_ok"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [38"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: Calling rd_func for health_condition of size 4096"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: Calling rd_func for Reading of size 4096"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [cond_ok"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [0.886"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: Calling rd_func for health_condition of size 4096"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: Calling rd_func for ReadingWatts of size 4096"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [530.132"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [cond_ok"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [cond_ok"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [cond_ok"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [0.901"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: Calling rd_func for health_condition of size 4096"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [0.903"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [0.903"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: Calling rd_func for health_condition of size 4096"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [cond_ok"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [cond_ok"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [cond_ok"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: Calling rd_func for Reading of size 4096"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: Calling rd_func for health_condition of size 4096"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: Calling rd_func for health_condition of size 4096"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [cond_ok"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: Calling rd_func for Reading of size 4096"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: Calling rd_func for Reading of size 4096"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: Calling rd_func for Reading of size 4096"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:06",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [0.9"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:06",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [0.9"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:06",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [45"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:06",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [cond_ok"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:06",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [cond_ok"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:06",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [cond_ok"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:06",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [43"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:06",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: Calling rd_func for health_condition of size 4096"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:06",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: Calling rd_func for health_condition of size 4096"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:06",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [44"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:06",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [cond_ok"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c3r5b0",
+            "service.name": "hmscd",
+            "process_id": "1126"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "46",
+            "facility": "5"
+        },
+        "Severity": "info",
+        "Body": "update_redis_network_adapters_link_down: Setting LinkStatus Down for j106p1 (p19)"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:05",
+        "Resource": {
+            "host.name": "x1000c1r3b0",
+            "service.name": "hmscd",
+            "process_id": "1122"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "46",
+            "facility": "5"
+        },
+        "Severity": "info",
+        "Body": "update_redis_network_adapters_link_down: Setting LinkStatus Down for j100p0 (p50)"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:07",
+        "Resource": {
+            "host.name": "x3002c0r41b0",
+            "service.name": "hmscd",
+            "process_id": "1922"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "facility": "5",
+            "priority": "46"
+        },
+        "Severity": "info",
+        "Body": "get_transceiver_data: j9 tx_lol_flags: 0xf -> 0x0"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:06",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [cond_ok"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:06",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [11.792"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:06",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: Calling rd_func for Reading of size 4096"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:06",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: Calling rd_func for health_condition of size 4096"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:06",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: Calling rd_func for health_condition of size 4096"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:06",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: rd_func returned 0, val: [cond_ok"
+    },
+    {
+        "Timestamp": "Apr 24 23:32:06",
+        "Resource": {
+            "host.name": "x1000c4s2b0",
+            "service.name": "hmfused",
+            "process_id": "3005"
+        },
+        "Attributes": {
+            "type": "log_controllerlog",
+            "priority": "14",
+            "facility": "1"
+        },
+        "Severity": "info",
+        "Body": "T3: hmsfuse_read: Calling rd_func for Reading of size 4096"
+    }
+]

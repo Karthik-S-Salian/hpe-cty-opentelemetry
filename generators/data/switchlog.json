@@ -1,0 +1,1502 @@
+[
+    {
+        "Resource": {
+            "process_id": "1019",
+            "host.name": "cdusw01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:21:47.593338+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "2342",
+            "host.name": "sw25g1",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:21:51.254216+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "2342",
+            "host.name": "sw25g1",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:21:51.255770+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "2356",
+            "host.name": "sw25g2",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:21:51.256092+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "2356",
+            "host.name": "sw25g2",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:21:51.256331+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "1019",
+            "host.name": "cdusw01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:21:51.254853+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "1019",
+            "host.name": "cdusw01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:21:51.256492+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "4243",
+            "host.name": "sw-smn01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|CDTR|1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:21:51.255247+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "1019",
+            "host.name": "cdusw01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:22:47.594821+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "4243",
+            "host.name": "sw-smn01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|CDTR|1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:22:47.597049+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "4243",
+            "host.name": "sw-smn01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|CDTR|1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:23:47.601103+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "2342",
+            "host.name": "sw25g1",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:23:51.263949+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "4243",
+            "host.name": "sw-smn01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|CDTR|1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:23:51.263999+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "2356",
+            "host.name": "sw25g2",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:23:51.265944+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "1019",
+            "host.name": "cdusw01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:23:51.264834+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "2342",
+            "host.name": "sw25g1",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:23:51.263822+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "4243",
+            "host.name": "sw-smn01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|CDTR|1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:23:51.263871+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "2356",
+            "host.name": "sw25g2",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:23:51.265827+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "1019",
+            "host.name": "cdusw01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:23:51.264709+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "1019",
+            "host.name": "cdusw01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:23:51.264896+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "2342",
+            "host.name": "sw25g1",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:24:51.273330+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "2356",
+            "host.name": "sw25g2",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:24:51.275023+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "4243",
+            "host.name": "sw-smn01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|CDTR|1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:24:51.274284+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "1019",
+            "host.name": "cdusw01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:24:51.274777+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "1019",
+            "host.name": "cdusw01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:24:51.274964+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "2342",
+            "host.name": "sw25g1",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:25:47.608610+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "1019",
+            "host.name": "cdusw01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:25:47.609574+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "4243",
+            "host.name": "sw-smn01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|CDTR|1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:25:47.610186+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "2356",
+            "host.name": "sw25g2",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:25:51.278602+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "4243",
+            "host.name": "sw-smn01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|CDTR|1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:25:51.278243+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "1019",
+            "host.name": "cdusw01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:25:51.278503+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "1019",
+            "host.name": "cdusw01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:25:51.278697+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "2342",
+            "host.name": "sw25g1",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:25:51.279632+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "4243",
+            "host.name": "sw-smn01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|CDTR|1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:26:47.614445+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "1019",
+            "host.name": "cdusw01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:26:47.615177+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "2342",
+            "host.name": "sw25g1",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:26:51.286876+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "4243",
+            "host.name": "sw-smn01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|CDTR|1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:26:51.286812+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "2356",
+            "host.name": "sw25g2",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:26:51.288591+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "1019",
+            "host.name": "cdusw01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:26:51.288089+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "2342",
+            "host.name": "sw25g1",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:26:51.286111+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "4243",
+            "host.name": "sw-smn01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|CDTR|1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:26:51.286277+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "2356",
+            "host.name": "sw25g2",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:26:51.288409+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "1019",
+            "host.name": "cdusw01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:26:51.287960+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "1019",
+            "host.name": "cdusw01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:26:51.288149+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "1019",
+            "host.name": "cdusw01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:27:47.618775+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "2356",
+            "host.name": "sw25g2",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:27:51.290886+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "4243",
+            "host.name": "sw-smn01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|CDTR|1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:27:51.289816+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "1019",
+            "host.name": "cdusw01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:27:51.290598+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "1019",
+            "host.name": "cdusw01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:27:51.290791+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "2342",
+            "host.name": "sw25g1",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:27:51.291757+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "1019",
+            "host.name": "cdusw01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:28:47.623274+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "2356",
+            "host.name": "sw25g2",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:28:51.296877+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "2342",
+            "host.name": "sw25g1",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:28:51.296670+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "2342",
+            "host.name": "sw25g1",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:28:51.296803+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "4243",
+            "host.name": "sw-smn01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|CDTR|1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:28:51.296584+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "1019",
+            "host.name": "cdusw01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:28:51.296580+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "4243",
+            "host.name": "sw-smn01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|CDTR|1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:29:47.628184+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "2342",
+            "host.name": "sw25g1",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:30:47.630768+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "1019",
+            "host.name": "cdusw01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:30:47.632050+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "4243",
+            "host.name": "sw-smn01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|CDTR|1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:31:21.308923+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "1019",
+            "host.name": "cdusw01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:31:21.309434+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "2356",
+            "host.name": "sw25g2",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:31:21.310840+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "2342",
+            "host.name": "sw25g1",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:31:21.310221+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "2342",
+            "host.name": "sw25g1",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:31:47.635641+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "4243",
+            "host.name": "sw-smn01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|CDTR|1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:31:47.636359+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "1019",
+            "host.name": "cdusw01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:31:47.637469+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "2342",
+            "host.name": "sw25g1",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:32:21.313737+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "2342",
+            "host.name": "sw25g1",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:32:21.313951+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "1019",
+            "host.name": "cdusw01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:32:21.315007+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "4243",
+            "host.name": "sw-smn01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|CDTR|1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:32:21.315476+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "2356",
+            "host.name": "sw25g2",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:33:21.319305+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "4243",
+            "host.name": "sw-smn01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|CDTR|1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:33:21.319172+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "2342",
+            "host.name": "sw25g1",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:33:21.320116+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "1019",
+            "host.name": "cdusw01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:33:21.319574+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "1019",
+            "host.name": "cdusw01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:33:21.319760+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "2342",
+            "host.name": "sw25g1",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:33:47.643711+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "4243",
+            "host.name": "sw-smn01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|CDTR|1|Throttled 3 Messages",
+        "Timestamp": "2025-04-24T21:34:47.648866+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "2342",
+            "host.name": "sw25g1",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:34:47.649852+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "4243",
+            "host.name": "sw-smn01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|CDTR|1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:35:21.329173+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "2356",
+            "host.name": "sw25g2",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:35:21.330686+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "1019",
+            "host.name": "cdusw01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:35:21.329929+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "2356",
+            "host.name": "sw25g2",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:36:21.335067+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "2342",
+            "host.name": "sw25g1",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:36:21.334824+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "4243",
+            "host.name": "sw-smn01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|CDTR|1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:36:21.334369+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "1019",
+            "host.name": "cdusw01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:36:21.334545+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "1019",
+            "host.name": "cdusw01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:36:21.334758+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "2342",
+            "host.name": "sw25g1",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:36:47.659383+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "1019",
+            "host.name": "cdusw01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:36:47.660978+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "2342",
+            "host.name": "sw25g1",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:37:21.340160+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "2356",
+            "host.name": "sw25g2",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:37:21.340568+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "2356",
+            "host.name": "sw25g2",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:37:21.340882+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "1019",
+            "host.name": "cdusw01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:37:21.340546+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "1019",
+            "host.name": "cdusw01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:37:21.340764+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "4243",
+            "host.name": "sw-smn01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|CDTR|1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:37:21.341228+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "2342",
+            "host.name": "sw25g1",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:37:47.661821+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "2356",
+            "host.name": "sw25g2",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:38:21.345722+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "4243",
+            "host.name": "sw-smn01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|CDTR|1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:38:21.345100+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "1019",
+            "host.name": "cdusw01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:38:21.345760+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "2342",
+            "host.name": "sw25g1",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|AMM|1/1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:38:21.346525+00:00"
+    },
+    {
+        "Resource": {
+            "process_id": "4243",
+            "host.name": "sw-smn01",
+            "service.name": "pimd"
+        },
+        "Attributes": {
+            "priority": "188",
+            "type": "log_switchlog",
+            "facility": "23"
+        },
+        "Severity": "warning",
+        "Body": "Event|5116|LOG_WARN|CDTR|1|Assert packet is discarded on interface vlan1. Reason: Dropping Assert Packet due to invalid IPv4 Assert Header",
+        "Timestamp": "2025-04-24T21:38:47.666959+00:00"
+    }
+]

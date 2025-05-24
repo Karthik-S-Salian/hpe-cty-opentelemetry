@@ -1,0 +1,4 @@
+sudo systemctl stop loki
+sudo rm -r /tmp/loki/
+sudo systemctl start loki
+sudo systemctl status loki

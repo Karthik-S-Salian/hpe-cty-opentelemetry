@@ -6,4 +6,4 @@ gnome-terminal -- bash -c "/usr/local/kafka/bin/kafka-server-start.sh /usr/local
 
 gnome-terminal -- bash -c "/opt/fluent-bit/bin/fluent-bit -c ~/work/hpe/fluentbit/fluentbit.conf; exec bash"
 
-gnome-terminal -- bash -c "python3 /home/karthikssalian/work/hpe/frontend/fake_logs.py; exec bash"
+gnome-terminal -- bash -c "/bin/python3 /home/karthikssalian/work/hpe/generators/fake_logs.py; exec bash"

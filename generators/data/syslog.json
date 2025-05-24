@@ -1,0 +1,1502 @@
+[
+    {
+        "Severity": "info",
+        "Body": "Accepted publickey for root from 172.23.0.6 port 39600 ssh2: RSA SHA256:/XxjGmQhtiXrsAcXL7pd8YGpbIFp/Aww815oreA4k/I",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "201786",
+            "host.name": "antero-turin-500w03",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "New session 12570 of user root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "8463",
+            "host.name": "antero-turin-500w02",
+            "service.name": "systemd-logind"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "pam_unix(sshd:session): session opened for user root by (uid=0)",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "10",
+            "type": "log_syslog",
+            "priority": "86"
+        },
+        "Resource": {
+            "process_id": "202540",
+            "host.name": "antero-turin-500w01",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "New session 12570 of user root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "9497",
+            "host.name": "antero-turin0001",
+            "service.name": "systemd-logind"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "New session 12595 of user root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "6781",
+            "host.name": "antero0001",
+            "service.name": "systemd-logind"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Started Session 12595 of User root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "3",
+            "type": "log_syslog",
+            "priority": "30"
+        },
+        "Resource": {
+            "process_id": "1",
+            "host.name": "antero0001",
+            "service.name": "systemd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "New session 12594 of user root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "8410",
+            "host.name": "antero-turin-500w03",
+            "service.name": "systemd-logind"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Started Session 12594 of User root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "3",
+            "type": "log_syslog",
+            "priority": "30"
+        },
+        "Resource": {
+            "process_id": "1",
+            "host.name": "antero-turin-500w03",
+            "service.name": "systemd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "pam_unix(sshd:session): session opened for user root by (uid=0)",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "10",
+            "type": "log_syslog",
+            "priority": "86"
+        },
+        "Resource": {
+            "process_id": "201786",
+            "host.name": "antero-turin-500w03",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Accepted publickey for root from 172.23.0.6 port 49716 ssh2: RSA SHA256:/XxjGmQhtiXrsAcXL7pd8YGpbIFp/Aww815oreA4k/I",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "199002",
+            "host.name": "antero-turin-500w02",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Started Session 12570 of User root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "3",
+            "type": "log_syslog",
+            "priority": "30"
+        },
+        "Resource": {
+            "process_id": "1",
+            "host.name": "antero-turin-500w02",
+            "service.name": "systemd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "pam_unix(sshd:session): session opened for user root by (uid=0)",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "10",
+            "type": "log_syslog",
+            "priority": "86"
+        },
+        "Resource": {
+            "process_id": "199002",
+            "host.name": "antero-turin-500w02",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Accepted publickey for root from 172.23.0.6 port 58090 ssh2: RSA SHA256:/XxjGmQhtiXrsAcXL7pd8YGpbIFp/Aww815oreA4k/I",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "202540",
+            "host.name": "antero-turin-500w01",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "New session 12599 of user root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "8224",
+            "host.name": "antero-turin-500w01",
+            "service.name": "systemd-logind"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Started Session 12599 of User root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "3",
+            "type": "log_syslog",
+            "priority": "30"
+        },
+        "Resource": {
+            "process_id": "1",
+            "host.name": "antero-turin-500w01",
+            "service.name": "systemd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Accepted publickey for root from 172.23.0.6 port 59368 ssh2: RSA SHA256:/XxjGmQhtiXrsAcXL7pd8YGpbIFp/Aww815oreA4k/I",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "208825",
+            "host.name": "antero-turin0001",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Started Session 12570 of User root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "3",
+            "type": "log_syslog",
+            "priority": "30"
+        },
+        "Resource": {
+            "process_id": "1",
+            "host.name": "antero-turin0001",
+            "service.name": "systemd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "pam_unix(sshd:session): session opened for user root by (uid=0)",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "10",
+            "type": "log_syslog",
+            "priority": "86"
+        },
+        "Resource": {
+            "process_id": "208825",
+            "host.name": "antero-turin0001",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Accepted publickey for root from 172.23.0.6 port 56764 ssh2: RSA SHA256:/XxjGmQhtiXrsAcXL7pd8YGpbIFp/Aww815oreA4k/I",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "311651",
+            "host.name": "antero0001",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Accepted publickey for root from 172.23.0.6 port 33606 ssh2: RSA SHA256:/XxjGmQhtiXrsAcXL7pd8YGpbIFp/Aww815oreA4k/I",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "130362",
+            "host.name": "antero0004",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "New session 12596 of user root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "6667",
+            "host.name": "antero0004",
+            "service.name": "systemd-logind"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Accepted publickey for root from 172.23.0.6 port 60884 ssh2: RSA SHA256:/XxjGmQhtiXrsAcXL7pd8YGpbIFp/Aww815oreA4k/I",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "208601",
+            "host.name": "antero-turin0003",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Started Session 12570 of User root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "3",
+            "type": "log_syslog",
+            "priority": "30"
+        },
+        "Resource": {
+            "process_id": "1",
+            "host.name": "antero-turin0003",
+            "service.name": "systemd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "pam_unix(sshd:session): session opened for user root by (uid=0)",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "10",
+            "type": "log_syslog",
+            "priority": "86"
+        },
+        "Resource": {
+            "process_id": "208601",
+            "host.name": "antero-turin0003",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Accepted publickey for root from 172.23.0.6 port 40836 ssh2: RSA SHA256:/XxjGmQhtiXrsAcXL7pd8YGpbIFp/Aww815oreA4k/I",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "198767",
+            "host.name": "antero-turin-500w04",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "New session 12570 of user root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "8410",
+            "host.name": "antero-turin-500w04",
+            "service.name": "systemd-logind"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Started Session 12570 of User root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "3",
+            "type": "log_syslog",
+            "priority": "30"
+        },
+        "Resource": {
+            "process_id": "1",
+            "host.name": "antero-turin-500w04",
+            "service.name": "systemd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "pam_unix(sshd:session): session opened for user root by (uid=0)",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "10",
+            "type": "log_syslog",
+            "priority": "86"
+        },
+        "Resource": {
+            "process_id": "198767",
+            "host.name": "antero-turin-500w04",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Started Session 12596 of User root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "3",
+            "type": "log_syslog",
+            "priority": "30"
+        },
+        "Resource": {
+            "process_id": "1",
+            "host.name": "antero0002",
+            "service.name": "systemd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Accepted publickey for root from 172.23.0.6 port 58918 ssh2: RSA SHA256:/XxjGmQhtiXrsAcXL7pd8YGpbIFp/Aww815oreA4k/I",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "130938",
+            "host.name": "antero0003",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "New session 12596 of user root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "6780",
+            "host.name": "antero0003",
+            "service.name": "systemd-logind"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Started Session 12596 of User root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "3",
+            "type": "log_syslog",
+            "priority": "30"
+        },
+        "Resource": {
+            "process_id": "1",
+            "host.name": "antero0003",
+            "service.name": "systemd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Accepted publickey for root from 172.23.0.6 port 34366 ssh2: RSA SHA256:/XxjGmQhtiXrsAcXL7pd8YGpbIFp/Aww815oreA4k/I",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "176400",
+            "host.name": "antero0012",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "New session 12599 of user root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "7214",
+            "host.name": "antero0012",
+            "service.name": "systemd-logind"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Started Session 12599 of User root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "3",
+            "type": "log_syslog",
+            "priority": "30"
+        },
+        "Resource": {
+            "process_id": "1",
+            "host.name": "antero0012",
+            "service.name": "systemd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Accepted publickey for root from 172.23.0.6 port 57922 ssh2: RSA SHA256:/XxjGmQhtiXrsAcXL7pd8YGpbIFp/Aww815oreA4k/I",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "176450",
+            "host.name": "antero0013",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "New session 12594 of user root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "7251",
+            "host.name": "antero0013",
+            "service.name": "systemd-logind"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Started Session 12594 of User root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "3",
+            "type": "log_syslog",
+            "priority": "30"
+        },
+        "Resource": {
+            "process_id": "1",
+            "host.name": "antero0013",
+            "service.name": "systemd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Accepted publickey for root from 172.23.0.6 port 55862 ssh2: RSA SHA256:/XxjGmQhtiXrsAcXL7pd8YGpbIFp/Aww815oreA4k/I",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "242077",
+            "host.name": "antero0014",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "New session 12594 of user root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "7327",
+            "host.name": "antero0014",
+            "service.name": "systemd-logind"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Started Session 12594 of User root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "3",
+            "type": "log_syslog",
+            "priority": "30"
+        },
+        "Resource": {
+            "process_id": "1",
+            "host.name": "antero0014",
+            "service.name": "systemd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "pam_unix(sshd:session): session opened for user root by (uid=0)",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "10",
+            "type": "log_syslog",
+            "priority": "86"
+        },
+        "Resource": {
+            "process_id": "242077",
+            "host.name": "antero0014",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "New session 12594 of user root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "7940",
+            "host.name": "antero0021",
+            "service.name": "systemd-logind"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "pam_unix(sshd:session): session opened for user root by (uid=0)",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "10",
+            "type": "log_syslog",
+            "priority": "86"
+        },
+        "Resource": {
+            "process_id": "180821",
+            "host.name": "antero0021",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Accepted publickey for root from 172.23.0.6 port 50980 ssh2: RSA SHA256:/XxjGmQhtiXrsAcXL7pd8YGpbIFp/Aww815oreA4k/I",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "172320",
+            "host.name": "antero0011",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "New session 12597 of user root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "7580",
+            "host.name": "antero0011",
+            "service.name": "systemd-logind"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Started Session 12597 of User root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "3",
+            "type": "log_syslog",
+            "priority": "30"
+        },
+        "Resource": {
+            "process_id": "1",
+            "host.name": "antero0011",
+            "service.name": "systemd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "pam_unix(sshd:session): session opened for user root by (uid=0)",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "10",
+            "type": "log_syslog",
+            "priority": "86"
+        },
+        "Resource": {
+            "process_id": "172320",
+            "host.name": "antero0011",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "New session 12595 of user root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "7883",
+            "host.name": "antero0019",
+            "service.name": "systemd-logind"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Started Session 12595 of User root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "3",
+            "type": "log_syslog",
+            "priority": "30"
+        },
+        "Resource": {
+            "process_id": "1",
+            "host.name": "antero0019",
+            "service.name": "systemd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "pam_unix(sshd:session): session opened for user root by (uid=0)",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "10",
+            "type": "log_syslog",
+            "priority": "86"
+        },
+        "Resource": {
+            "process_id": "180571",
+            "host.name": "antero0019",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Accepted publickey for root from 172.23.0.6 port 57400 ssh2: RSA SHA256:/XxjGmQhtiXrsAcXL7pd8YGpbIFp/Aww815oreA4k/I",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "245994",
+            "host.name": "antero0051",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "New session 12596 of user root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "6900",
+            "host.name": "antero0051",
+            "service.name": "systemd-logind"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "pam_unix(sshd:session): session opened for user root by (uid=0)",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "10",
+            "type": "log_syslog",
+            "priority": "86"
+        },
+        "Resource": {
+            "process_id": "245994",
+            "host.name": "antero0051",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Accepted publickey for root from 172.23.0.6 port 44412 ssh2: RSA SHA256:/XxjGmQhtiXrsAcXL7pd8YGpbIFp/Aww815oreA4k/I",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "180338",
+            "host.name": "antero0022",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "New session 12599 of user root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "7822",
+            "host.name": "antero0022",
+            "service.name": "systemd-logind"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Started Session 12599 of User root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "3",
+            "type": "log_syslog",
+            "priority": "30"
+        },
+        "Resource": {
+            "process_id": "1",
+            "host.name": "antero0022",
+            "service.name": "systemd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "pam_unix(sshd:session): session opened for user root by (uid=0)",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "10",
+            "type": "log_syslog",
+            "priority": "86"
+        },
+        "Resource": {
+            "process_id": "180338",
+            "host.name": "antero0022",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Accepted publickey for root from 172.23.0.6 port 52994 ssh2: RSA SHA256:/XxjGmQhtiXrsAcXL7pd8YGpbIFp/Aww815oreA4k/I",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "180388",
+            "host.name": "antero0027",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "New session 12600 of user root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "7934",
+            "host.name": "antero0027",
+            "service.name": "systemd-logind"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Started Session 12600 of User root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "3",
+            "type": "log_syslog",
+            "priority": "30"
+        },
+        "Resource": {
+            "process_id": "1",
+            "host.name": "antero0027",
+            "service.name": "systemd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "pam_unix(sshd:session): session opened for user root by (uid=0)",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "10",
+            "type": "log_syslog",
+            "priority": "86"
+        },
+        "Resource": {
+            "process_id": "180388",
+            "host.name": "antero0027",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "New session 12596 of user root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "7833",
+            "host.name": "antero0029",
+            "service.name": "systemd-logind"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "pam_unix(sshd:session): session opened for user root by (uid=0)",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "10",
+            "type": "log_syslog",
+            "priority": "86"
+        },
+        "Resource": {
+            "process_id": "180445",
+            "host.name": "antero0029",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "pam_unix(sshd:session): session opened for user root by (uid=0)",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "10",
+            "type": "log_syslog",
+            "priority": "86"
+        },
+        "Resource": {
+            "process_id": "252596",
+            "host.name": "antero0064",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Accepted publickey for root from 172.23.0.6 port 49716 ssh2: RSA SHA256:/XxjGmQhtiXrsAcXL7pd8YGpbIFp/Aww815oreA4k/I",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "245930",
+            "host.name": "antero0054",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Started Session 12594 of User root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "3",
+            "type": "log_syslog",
+            "priority": "30"
+        },
+        "Resource": {
+            "process_id": "1",
+            "host.name": "antero0054",
+            "service.name": "systemd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "pam_unix(sshd:session): session opened for user root by (uid=0)",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "10",
+            "type": "log_syslog",
+            "priority": "86"
+        },
+        "Resource": {
+            "process_id": "245930",
+            "host.name": "antero0054",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Accepted publickey for root from 172.23.0.6 port 57412 ssh2: RSA SHA256:/XxjGmQhtiXrsAcXL7pd8YGpbIFp/Aww815oreA4k/I",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "245855",
+            "host.name": "antero0063",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "New session 12599 of user root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "6684",
+            "host.name": "antero0063",
+            "service.name": "systemd-logind"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Started Session 12599 of User root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "3",
+            "type": "log_syslog",
+            "priority": "30"
+        },
+        "Resource": {
+            "process_id": "1",
+            "host.name": "antero0063",
+            "service.name": "systemd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "pam_unix(sshd:session): session opened for user root by (uid=0)",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "10",
+            "type": "log_syslog",
+            "priority": "86"
+        },
+        "Resource": {
+            "process_id": "245855",
+            "host.name": "antero0063",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Accepted publickey for root from 172.23.0.6 port 44444 ssh2: RSA SHA256:/XxjGmQhtiXrsAcXL7pd8YGpbIFp/Aww815oreA4k/I",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "240017",
+            "host.name": "antero0053",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "New session 12595 of user root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "6846",
+            "host.name": "antero0053",
+            "service.name": "systemd-logind"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Started Session 12595 of User root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "3",
+            "type": "log_syslog",
+            "priority": "30"
+        },
+        "Resource": {
+            "process_id": "1",
+            "host.name": "antero0053",
+            "service.name": "systemd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Started Session 12594 of User root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "3",
+            "type": "log_syslog",
+            "priority": "30"
+        },
+        "Resource": {
+            "process_id": "1",
+            "host.name": "antero0028",
+            "service.name": "systemd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "pam_unix(sshd:session): session opened for user root by (uid=0)",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "10",
+            "type": "log_syslog",
+            "priority": "86"
+        },
+        "Resource": {
+            "process_id": "180109",
+            "host.name": "antero0028",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Accepted publickey for root from 172.23.0.6 port 43818 ssh2: RSA SHA256:/XxjGmQhtiXrsAcXL7pd8YGpbIFp/Aww815oreA4k/I",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "246080",
+            "host.name": "antero0052",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "New session 12597 of user root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "6860",
+            "host.name": "antero0052",
+            "service.name": "systemd-logind"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Started Session 12597 of User root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "3",
+            "type": "log_syslog",
+            "priority": "30"
+        },
+        "Resource": {
+            "process_id": "1",
+            "host.name": "antero0052",
+            "service.name": "systemd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Accepted publickey for root from 172.23.0.6 port 37996 ssh2: RSA SHA256:/XxjGmQhtiXrsAcXL7pd8YGpbIFp/Aww815oreA4k/I",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "246280",
+            "host.name": "antero0061",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Started Session 12597 of User root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "3",
+            "type": "log_syslog",
+            "priority": "30"
+        },
+        "Resource": {
+            "process_id": "1",
+            "host.name": "antero0061",
+            "service.name": "systemd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "pam_unix(sshd:session): session opened for user root by (uid=0)",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "10",
+            "type": "log_syslog",
+            "priority": "86"
+        },
+        "Resource": {
+            "process_id": "246280",
+            "host.name": "antero0061",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Accepted publickey for root from 172.23.0.6 port 49716 ssh2: RSA SHA256:/XxjGmQhtiXrsAcXL7pd8YGpbIFp/Aww815oreA4k/I",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "3727732",
+            "host.name": "antero0020",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "New session 12502 of user root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "8008",
+            "host.name": "antero0020",
+            "service.name": "systemd-logind"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Started Session 12502 of User root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "3",
+            "type": "log_syslog",
+            "priority": "30"
+        },
+        "Resource": {
+            "process_id": "1",
+            "host.name": "antero0020",
+            "service.name": "systemd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "pam_unix(sshd:session): session opened for user root by (uid=0)",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "10",
+            "type": "log_syslog",
+            "priority": "86"
+        },
+        "Resource": {
+            "process_id": "3727732",
+            "host.name": "antero0020",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Accepted publickey for root from 172.23.0.6 port 52102 ssh2: RSA SHA256:/XxjGmQhtiXrsAcXL7pd8YGpbIFp/Aww815oreA4k/I",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "245564",
+            "host.name": "antero0062",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "New session 12595 of user root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "6717",
+            "host.name": "antero0062",
+            "service.name": "systemd-logind"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Started Session 12595 of User root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "3",
+            "type": "log_syslog",
+            "priority": "30"
+        },
+        "Resource": {
+            "process_id": "1",
+            "host.name": "antero0062",
+            "service.name": "systemd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "pam_unix(sshd:session): session opened for user root by (uid=0)",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "10",
+            "type": "log_syslog",
+            "priority": "86"
+        },
+        "Resource": {
+            "process_id": "245564",
+            "host.name": "antero0062",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Accepted publickey for root from 172.23.0.6 port 50514 ssh2: RSA SHA256:/XxjGmQhtiXrsAcXL7pd8YGpbIFp/Aww815oreA4k/I",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "180807",
+            "host.name": "antero0030",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "New session 12598 of user root.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "7886",
+            "host.name": "antero0030",
+            "service.name": "systemd-logind"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Started Session c726372 of User root.",
+        "Attributes": {
+            "type": "log_syslog",
+            "facility": "3",
+            "priority": "30"
+        },
+        "Resource": {
+            "process_id": "1",
+            "host.name": "ld01",
+            "service.name": "systemd"
+        },
+        "Timestamp": "Apr 24 19:57:55"
+    },
+    {
+        "Severity": "info",
+        "Body": "Started Session c726373 of User root.",
+        "Attributes": {
+            "type": "log_syslog",
+            "facility": "3",
+            "priority": "30"
+        },
+        "Resource": {
+            "process_id": "1",
+            "host.name": "ld01",
+            "service.name": "systemd"
+        },
+        "Timestamp": "Apr 24 19:57:55"
+    },
+    {
+        "Severity": "info",
+        "Body": "pam_unix(sudo:session): session opened for user root by (uid=474)",
+        "Attributes": {
+            "type": "log_syslog",
+            "facility": "10",
+            "priority": "86"
+        },
+        "Resource": {
+            "process_id": "",
+            "host.name": "ld01",
+            "service.name": "sudo"
+        },
+        "Timestamp": "Apr 24 19:57:55"
+    },
+    {
+        "Severity": "info",
+        "Body": "Disconnected from user root 172.23.0.6 port 49716",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "3727780",
+            "host.name": "antero0020",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "pam_unix(sshd:session): session closed for user root",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "10",
+            "type": "log_syslog",
+            "priority": "86"
+        },
+        "Resource": {
+            "process_id": "3727732",
+            "host.name": "antero0020",
+            "service.name": "sshd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "session-12502.scope: Deactivated successfully.",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "3",
+            "type": "log_syslog",
+            "priority": "30"
+        },
+        "Resource": {
+            "process_id": "1",
+            "host.name": "antero0020",
+            "service.name": "systemd"
+        }
+    },
+    {
+        "Severity": "info",
+        "Body": "Disconnected from user root 172.23.0.6 port 58090",
+        "Timestamp": "Apr 24 19:57:55",
+        "Attributes": {
+            "facility": "4",
+            "type": "log_syslog",
+            "priority": "38"
+        },
+        "Resource": {
+            "process_id": "202661",
+            "host.name": "antero-turin-500w01",
+            "service.name": "sshd"
+        }
+    }
+]
