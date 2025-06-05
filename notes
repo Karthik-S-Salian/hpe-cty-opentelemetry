@@ -1,0 +1,11 @@
+victoria logs
+
+storage 
+-> supports json better then loki bcs supports nested json automatically flattens 
+
+stream fields == loki index
+
+does not have a snapshot feature
+
+querying 
+logsql 
