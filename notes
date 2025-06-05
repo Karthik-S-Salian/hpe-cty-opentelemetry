@@ -9,3 +9,25 @@ does not have a snapshot feature
 
 querying 
 logsql 
+
+
+12-6-25
+data storage:
+stores in columnar storage format, 
+folder for per day logs
+ 
+
+flow:
+vlinsert -> vlstorage -> vlselect(for query)
+
+repo activity:
+no seperate repo
+same repo of victoria metrics
+https://docs.victoriametrics.com/victorialogs/roadmap/
+last commit -> 1 hour (highly active)
+issue 348 -> 237 closed  117 open   (even pr same ratio)
+
+
+other:
+vmui for simple debug and view of logs
+http://localhost:9428/
