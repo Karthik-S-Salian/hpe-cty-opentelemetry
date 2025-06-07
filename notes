@@ -31,3 +31,9 @@ issue 348 -> 237 closed  117 open   (even pr same ratio)
 other:
 vmui for simple debug and view of logs
 http://localhost:9428/
+
+
+comparision:
+
+regex is very expensive on opensearch
+has some ristriction on regex  https://docs.opensearch.org/docs/latest/query-dsl/term/regexp/
