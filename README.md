@@ -26,17 +26,35 @@ Logs from various sources are streamed through a pipeline of industry-standard t
 └── README.md             # This file
 
 
-⚙️ Prerequisites
 Before running the pipeline, ensure the following are installed:
 
-Any Linux-based OS
+Linux-based OS (any distribution)
 
-Fluent Bit
+Fluent Bit – lightweight log collector and forwarder (official site) 
+github.com
+docs.aws.amazon.com
++7
+fluentbit.io
++7
+github.com
++7
 
-Apache Kafka
+Apache Kafka – scalable message queue
 
-Logstash
+Logstash – optional log processor for transforming and enriching logs
 
-Grafana Loki / VictoriaLogs
+Choose one:
 
-Grafana
+Grafana Loki – log aggregation compatible with Prometheus-like queries
+
+or
+
+VictoriaLogs – efficient, high-performance log storage solution 
+youtube.com
++10
+docs.victoriametrics.com
++10
+reddit.com
++10
+
+Grafana – dashboards and log query interface
