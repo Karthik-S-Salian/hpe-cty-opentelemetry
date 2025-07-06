@@ -32,69 +32,47 @@ Logs from various sources are streamed through a pipeline of industry-standard t
 ---
 
 ⚙️ Prerequisites
+
 Make sure the following tools are installed on your Linux system:
 
 Fluent Bit
-
 Apache Kafka
-
 Logstash
-
 Grafana Loki or VictoriaLogs
-
 Grafana
 
+
 🚀 Getting Started
-📝 Note:
-The exact paths may vary depending on where you've cloned or installed each tool. Adjust paths as needed.
+
+📝 Note: The exact paths may vary depending on where you've cloned or installed each tool. Adjust paths as needed.
 
 🔹 Step 1: Start Fluent Bit
 This step collects logs and forwards them to Kafka.
-
-bash
-Copy
-Edit
 fluent-bit -c ./fluentbit/fluent-bit.conf
 Make sure fluent-bit.conf is configured correctly with source paths and Kafka topic mappings.
 
 🔹 Step 2: Start Apache Kafka
 Ensure Zookeeper is running before starting Kafka:
-
-bash
-Copy
-Edit
 # Start Zookeeper
 bin/zookeeper-server-start.sh config/zookeeper.properties
 
 # Start Kafka
 bin/kafka-server-start.sh config/server.properties
-⚠️ Update bin/ and config/ to match your local installation paths.
+
 
 🔹 Step 3: Start Logstash (Optional)
 Logstash can modify logs, extract fields, or enrich data before forwarding to Loki or VictoriaLogs.
-
-bash
-Copy
-Edit
 logstash -f ./logstash/logstash.conf
 🔹 Step 4: Start Log Aggregator
 Choose one of the following:
 
 Option A: Grafana Loki
-bash
-Copy
-Edit
 ./loki -config.file=./loki/loki-config.yaml
 Option B: VictoriaLogs
-bash
-Copy
-Edit
 ./vmlogs-prod -config=./vmlogs/vmlogs.yaml
+
 🔹 Step 5: Start Grafana
 Visit http://localhost:3000 and:
-
 Add Loki or VictoriaLogs as a data source
-
 Import or build dashboards using log queries
-
 Use /dashboards folder for prebuilt templates (if available)
