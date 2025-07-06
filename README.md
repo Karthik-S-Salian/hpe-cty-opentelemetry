@@ -22,5 +22,21 @@ Logs from various sources are streamed through a pipeline of industry-standard t
 .
 ├── fluentbit/            # Fluent Bit configuration files
 ├── logstash/             # Logstash pipeline configuration
-├── loki/                 # Configuration for Grafana Loki
+├── generators/           # Fiels for creating fake data
 └── README.md             # This file
+
+
+⚙️ Prerequisites
+Before running the pipeline, ensure the following are installed:
+
+Any Linux-based OS
+
+Fluent Bit
+
+Apache Kafka
+
+Logstash
+
+Grafana Loki / VictoriaLogs
+
+Grafana
